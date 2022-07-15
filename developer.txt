@@ -1,0 +1,4 @@
+'/c/Users/LENOVO/Pictures/Saved Pictures/images.jpg'
+
+this file is developer.txt using vi command
+
